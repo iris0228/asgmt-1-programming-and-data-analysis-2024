@@ -2,11 +2,11 @@
 
 > Assignment 1: Programming and Data Analysis 2024.
 
-- Define functions in `asgmt.py` given names, templates, and docstrings.
+- Define functions in `asgmt.py` given their names, templates, and docstrings.
 - Run `test-runner.py` to validate your functions.
 - Upload `asgmt.py` to [NTU COOL](https://cool.ntu.edu.tw).
 
-## 01. Define a funct ion `use_abs_function()` which uses the built-in `abs()` function to return the absolute value of a given integer.
+## 01. Define a function `use_abs_function()` which uses the built-in `abs()` function to return the absolute value of a given integer.
 
 ```python
 def use_abs_function(x: int) -> int:
