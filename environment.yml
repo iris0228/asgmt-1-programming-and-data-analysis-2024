@@ -1,0 +1,12 @@
+name: base-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip:
+      - lxml
+      - openpyxl
